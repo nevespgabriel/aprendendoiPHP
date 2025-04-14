@@ -19,6 +19,7 @@
         }else{
             require("./controllers/$acao.controller.php");
         }
+        
     ?>
 </body>
 </html>
